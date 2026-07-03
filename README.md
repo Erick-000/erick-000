@@ -34,8 +34,8 @@
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>Desarrollador Frontend & Full Stack Junior</h3>
+    <td width="65%">
+      <h3>Frontend & Full Stack Developer Junior</h3>
       <p>
         Soy desarrollador de Quibdó, Colombia, enfocado en crear aplicaciones web modernas, responsivas y orientadas a producto.
       </p>
@@ -43,15 +43,15 @@
         Trabajo principalmente con <strong>React, Next.js, TypeScript, JavaScript, NestJS, PostgreSQL y Prisma</strong>, construyendo interfaces, dashboards, APIs REST, autenticación, roles, permisos, sistemas administrativos y soluciones <strong>PWA</strong>.
       </p>
       <p>
-        Me interesa transformar necesidades reales de negocio en productos digitales útiles: plataformas administrativas, sistemas de créditos y cobranzas, dashboards operativos, experiencias offline-first y aplicaciones web listas para crecer.
+        Me interesa transformar necesidades reales de negocio en productos digitales útiles, mantenibles y listos para crecer.
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="35%" align="center">
       <h3>Enfoque actual</h3>
       <p>🎨 Frontend moderno</p>
-      <p>🧱 Desarrollo Full Stack</p>
+      <p>🧱 Full Stack</p>
       <p>📲 PWA & Offline First</p>
-      <p>📊 Dashboards administrativos</p>
+      <p>📊 Dashboards</p>
       <p>🚀 Producto real</p>
     </td>
   </tr>
@@ -100,55 +100,6 @@
 
 ---
 
-## 🧩 Mi caja de herramientas
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎨 Frontend</h3>
-      <a href="https://skillicons.dev">
-        <img 
-          src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark&perline=5" 
-          alt="Frontend" 
-        />
-      </a>
-      <p>
-        React · Next.js · TypeScript · JavaScript · Tailwind CSS
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧱 Full Stack</h3>
-      <a href="https://skillicons.dev">
-        <img 
-          src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma&theme=dark&perline=5" 
-          alt="Full Stack" 
-        />
-      </a>
-      <p>
-        Node.js · NestJS · Express · PostgreSQL · Prisma
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Workflow</h3>
-      <a href="https://skillicons.dev">
-        <img 
-          src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark&perline=5" 
-          alt="Workflow" 
-        />
-      </a>
-      <p>
-        Git · GitHub · Docker · Postman · VS Code
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📌 Proyecto destacado
 
 <table>
@@ -179,86 +130,24 @@
 
 ---
 
-## ⚡ Áreas donde estoy creciendo
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🎨 Frontend</h3>
-      <p>
-        React, Next.js, TypeScript, Tailwind CSS, interfaces limpias y componentes reutilizables.
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🧱 Full Stack</h3>
-      <p>
-        NestJS, APIs REST, autenticación, roles, permisos, PostgreSQL y Prisma.
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h3>📲 PWA</h3>
-      <p>
-        Service Workers, IndexedDB, operación offline y sincronización de datos.
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀 Producto</h3>
-      <p>
-        Dashboards, sistemas administrativos y flujos reales de negocio.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Summary
+## 🐍 Actividad de contribuciones
 
 <div align="center">
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-000&theme=tokyonight" 
-  alt="Resumen del perfil de GitHub de Erick" 
-/>
-
-<br />
-<br />
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erick-000&theme=tokyonight" 
-  alt="Repositorios por lenguaje de Erick" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erick-000&theme=tokyonight" 
-  alt="Lenguajes con más commits de Erick" 
-/>
-
-<br />
-<br />
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erick-000&theme=tokyonight" 
-  alt="Estadísticas generales de GitHub de Erick" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erick-000&theme=tokyonight&utcOffset=-5" 
-  alt="Tiempo productivo de Erick en GitHub" 
-/>
-
-</div>
-
----
-
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=Erick-000&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" 
-  alt="Racha de contribuciones de Erick" 
-/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Erick-000/Erick-000/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Erick-000/Erick-000/output/github-contribution-grid-snake.svg" 
+  />
+  <img 
+    alt="Animación snake del historial de contribuciones de GitHub" 
+    src="https://raw.githubusercontent.com/Erick-000/Erick-000/output/github-contribution-grid-snake.svg" 
+  />
+</picture>
 
 </div>
 
@@ -305,20 +194,6 @@
       <h3>🔐 Seguridad básica</h3>
       <p>
         Trabajo con autenticación, roles, permisos y protección de rutas.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📦 Producto real</h3>
-      <p>
-        Construyo pensando en procesos de negocio, no solo en componentes aislados.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📚 Mejora continua</h3>
-      <p>
-        Fortalezco constantemente mis habilidades técnicas y criterio de desarrollo.
       </p>
     </td>
   </tr>
