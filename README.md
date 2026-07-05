@@ -149,7 +149,105 @@
 
 ---
 
-## 📌 Proyecto destacado
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💼 ClientePotencial AI</h3>
+      <p>
+        Mini CRM inteligente para freelancers, desarrolladores y pequeños negocios. Permite gestionar prospectos, visualizar oportunidades comerciales, estimar presupuestos y apoyar decisiones con IA.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, shadcn/ui, Prisma, PostgreSQL, OpenAI API, React Hook Form, Zod y Recharts.
+      </p>
+      <p>
+        <a href="https://cliente-potencial-ai.vercel.app/" target="_blank">
+          🌐 Ver demo
+        </a>
+        ·
+        <a href="https://github.com/Erick-000/ClientePotencialAI" target="_blank">
+          💻 Código
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📄 PerfilMatch AI</h3>
+      <p>
+        Aplicación web que analiza una hoja de vida frente a una vacante y genera recomendaciones para mejorar la compatibilidad del perfil profesional usando IA.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, shadcn/ui, OpenAI API, React Hook Form y Zod.
+      </p>
+      <p>
+        <a href="https://perfil-match-ai.vercel.app/" target="_blank">
+          🌐 Ver demo
+        </a>
+        ·
+        <a href="https://github.com/Erick-000/PerfilMatchAI" target="_blank">
+          💻 Código
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ RespuestaLista AI</h3>
+      <p>
+        Herramienta para generar respuestas profesionales de atención al cliente según pregunta, contexto del negocio, canal y tono de comunicación.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, shadcn/ui, OpenAI API, React Hook Form, Zod y localStorage.
+      </p>
+      <p>
+        <a href="https://respuesta-lista-ai.vercel.app/" target="_blank">
+          🌐 Ver demo
+        </a>
+        ·
+        <a href="https://github.com/Erick-000/RespuestaListaAI" target="_blank">
+          💻 Código
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experiencia aplicada
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Sistemas administrativos</h3>
+      <p>
+        Desarrollo interfaces para dashboards, tablas, formularios, filtros, estados operativos y módulos de gestión orientados a procesos reales de negocio.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 Aplicaciones con IA</h3>
+      <p>
+        Integro OpenAI en productos web para análisis de texto, generación de respuestas, evaluación de oportunidades y apoyo a la toma de decisiones.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧱 Full Stack</h3>
+      <p>
+        Construyo aplicaciones con frontend moderno, APIs REST, autenticación, validaciones, bases de datos relacionales y despliegue en producción.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📲 PWA & producto</h3>
+      <p>
+        Me interesa crear productos útiles, responsivos y mantenibles, con enfoque en experiencia de usuario, continuidad operativa y escalabilidad.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Proyecto empresarial destacado
 
 <table>
   <tr>
